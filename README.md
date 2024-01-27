@@ -1,6 +1,6 @@
 # Responsive  Charity Website Template
 
-## 🌐 Live Demo [Your Charity Website Demo](https://udabasili.github.io/charity-website-template/)
+## [🌐 Visit Site](https://udabasili.github.io/charity-website-template/)
 
 ![41078-m](https://github.com/udabasili/charity-website-template/assets/33573587/99eff1ca-f1dd-44e2-8cf4-5c2b1ecd9e94)
 
