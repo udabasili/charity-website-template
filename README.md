@@ -2,7 +2,9 @@
 
 ## [🌐 Visit Site](https://udabasili.github.io/charity-website-template/)
 
-![41078-m](https://github.com/udabasili/charity-website-template/assets/33573587/99eff1ca-f1dd-44e2-8cf4-5c2b1ecd9e94)
+![41078-bcss](https://github.com/udabasili/charity-website-template/assets/33573587/1d3e4620-c2ee-49d0-a4a2-1573609e98b5)
+![41078-m](https://github.com/udabasili/charity-website-template/assets/33573587/a4c338ee-b79f-4ae2-b6f6-8f9ac1ae96ab)
+![41078-rs](https://github.com/udabasili/charity-website-template/assets/33573587/552f74c7-c773-44fe-93ad-c6b921141de6)
 
 ## Overview
 
